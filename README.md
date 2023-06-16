@@ -1,1 +1,1 @@
-###a small qt project
+### a small qt project
