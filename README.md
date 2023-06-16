@@ -1,1 +1,1 @@
-# QT_CoinFlip
+###a small qt project
